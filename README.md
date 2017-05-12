@@ -1,9 +1,9 @@
-# Conduit
+# Olek-Django-Sample-Project
 
 ## Installation
 
-1. Clone this repository: `git clone git@github.com:gothinkster/productionready-django-api.git`.
-2. `cd` into `conduit-django`: `cd productionready-django-api`.
+1. Clone this repository: `git clone https://github.com/oleksandrbyk/olek-django-sample-project.git`.
+2. `cd` into `conduit-django`: `cd olek-django-sample-project`.
 3. Install [pyenv](https://github.com/yyuu/pyenv#installation).
 4. Install [pyenv-virtualenv](https://github.com/yyuu/pyenv-virtualenv#installation).
 5. Install Python 3.5.2: `pyenv install 3.5.2`.
@@ -13,6 +13,4 @@
 
 If all went well then your command line prompt should now start with `(productionready)`.
 
-If your command line prompt does not start with `(productionready)` at this point, try running `pyenv activate productionready` or `cd ../productionready-django-api`. 
-
-If pyenv is still not working, visit us in the Thinkster Slack channel so we can help you out.
+If your command line prompt does not start with `(productionready)` at this point, try running `pyenv activate productionready` or `cd ../productionready-django-api`.
